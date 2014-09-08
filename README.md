@@ -6,7 +6,7 @@ dummy gem for ataru
 
 Add this line to your application's Gemfile:
 
-    gem 'padawans_moon'
+    gem 'padawans_moon', :git => 'https://github.com/CodePadawans/padawans_moon.git'
 
 And then execute:
 
@@ -14,7 +14,8 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install padawans_moon
+$ gem install padawans_moon
+
 
 ## Usage
 

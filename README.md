@@ -1,6 +1,6 @@
 # PadawansMoon
 
-TODO: Write a gem description
+dummy gem for ataru
 
 ## Installation
 

@@ -14,12 +14,22 @@ And then execute:
 
 Or install it yourself as:
 
-$ gem install padawans_moon
+    $ gem install padawans_moon
 
 
 ## Usage
 
-TODO: Write usage instructions here
+Build the gem:
+
+    $ gem build padawans_moon.gemspec
+
+And install it:
+
+    $ gem install padawans_moon-0.0.1.gem
+
+Add ataru to PadawansMonn Gemfile.
+
+Read ataru README and the instructions there.
 
 ## Contributing
 

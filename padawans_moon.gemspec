@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["CodePadawans"]
   spec.email         = ["contact@code-padawans.de"]
   spec.summary       = %q{dummy gem for ataru}
-  spec.description   = %q{dummy gem for ataru}
-  spec.homepage      = ""
+  spec.description   = %q{actually a very important gem testing ataru}
+  spec.homepage      = "https://github.com/CodePadawans/padawans_moon"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

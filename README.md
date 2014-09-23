@@ -13,6 +13,6 @@ Read ataru README for further instructions.
 
 ```ruby
 result = Galaxy.answer_to_the_ultimate_question_of_life_the_universe_and_everything
-result #=> 42
+result #=> 24
 ```
 
